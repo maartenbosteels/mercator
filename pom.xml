@@ -190,7 +190,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>33.2.1-jre</version>
+            <version>33.4.5-jre</version>
         </dependency>
 
         <!-- org.apache.poi.util.ReplacingInputStream is used in HtmlFeatureExtractor -->
